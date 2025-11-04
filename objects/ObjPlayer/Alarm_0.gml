@@ -1,0 +1,2 @@
+isdash=false
+velocidadeDash =velocidade
