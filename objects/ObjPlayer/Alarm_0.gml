@@ -1,2 +1,2 @@
-isdash=false
-velocidadeDash =velocidade
+velrolamento=false
+spr=false
